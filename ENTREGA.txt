@@ -1,0 +1,27 @@
+João Vitor Moraski Lunkes - RA: 1904000
+Caio Eduardo Theodoro - RA: 2044560
+
+https://github.com/caiotheodoro/patter-recog/
+
+
+Descrição:
+
+AVI SSVEP, disposição dos arquivos:
+
+
+SSVEP/avi/
+
+
+BETA, disposição dos arquivos:
+
+SSVEP/beta/
+
+para compilação, executar na ordem:
+
+load/load_beta_dataset.ipynb
+preprocessing/beta_ml.ipynb
+classifier/classifier_ml.ipynb
+
+
+
+A maior acurácia obtida foi de 50%, com o classificador SVM, utilizando seleção de características automaticas com RFE.
